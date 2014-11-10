@@ -8,6 +8,19 @@ section {
 	margin: 20px 0;
 }
 
+h1{
+	font-family: 'Gloria Hallelujah', cursive;
+}
+h2 {
+	font-family: 'Droid Sans', sans-serif;
+}
+img{
+	height: 1400px;
+	width: 1140px;
+	
+}
+
+
 .color-1,
 .color-2,
 .color-3,
