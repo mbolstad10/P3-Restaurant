@@ -1,0 +1,44 @@
+element.style {
+}
+.banner img {
+width: 100%;
+position: fixed;
+margin-top: -5em;
+z-index: -10;
+}
+img {
+border: 0;
+}
+Inherited from body
+body {
+font-family: 'Lato', sans-serif;
+}
+
+.logo {
+	margin-left: 950px;
+	margin-top: 200px;
+
+}
+.ui.red.inverted.segment {
+	width: 400px;
+	margin-left: 750px;
+
+}
+
+iframe {
+	width: 400px;
+	margin-left: 1000px;
+	position: center;
+
+}
+
+.nav{
+	margin-left: 750px;
+}
+.meun{
+	margin-top: 400px;
+}
+
+.ui.inverted.circular.segment{
+	width: 200px;
+}
