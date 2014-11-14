@@ -9,31 +9,31 @@ z-index: -10;
 img {
 border: 0;
 }
-Inherited from body
-body {
-font-family: 'Lato', sans-serif;
-}
+
 
 .logo {
 	margin-left: 950px;
 	margin-top: 200px;
+	margin-bottom: 100px;
 
 }
+
 .ui.red.inverted.segment {
-	width: 400px;
-	margin-left: 750px;
+	width: 950px;
+	position: center;
+	
 
 }
 
 iframe {
 	width: 400px;
 	margin-left: 1000px;
-	position: center;
+	
 
 }
 
 .nav{
-	margin-left: 750px;
+	margin-left: 950px;
 }
 .meun{
 	margin-top: 400px;
@@ -41,4 +41,22 @@ iframe {
 
 .ui.inverted.circular.segment{
 	width: 200px;
+
+
+
+}
+
+.container{
+	width: 200px;
+}
+
+.uisteps {
+
+	width: 400px;
+	margin-left: 750px;
+}
+
+.one{
+	width: 350px;
+	height: 350px;
 }
